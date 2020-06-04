@@ -1,10 +1,10 @@
 # Unit 17 Nosql Homework: Workout Tracker
 
-  * Created by Erik Adames
+  * Created by davidmichaelhughey@gmail.com
 
-  * Github Repo Link: https://github.com/egadames/hw11
-
-  * Live Link: https://still-springs-69398.herokuapp.com/
+  * Github Repo Link: https://github.com/Eyeball1/hw11
+  
+  * Live Link: ^
 
 ## Description 
 
@@ -58,5 +58,6 @@ s
 
   * User GitHub email
 
-    * Email: egadames990@gmail.com
+    * Email:  davidmichaelhughey@gmail.com
+
   
